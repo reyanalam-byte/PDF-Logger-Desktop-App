@@ -33,7 +33,7 @@ A lightweight Windows desktop application that automatically logs every PDF prin
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/pdf-logger-app.git
+    git clone https://github.com/reyanalam-byte/pdf-logger-app.git
     cd pdf-logger-app
     ```
 
